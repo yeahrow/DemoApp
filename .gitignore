@@ -1,7 +1,191 @@
+/Library/RazorHR.Data/obj
+/Library/RazorHR.Data/bin
+/Library/RazorHR.Data/RazorHR.Data.csproj.user
+/Library/RazorHR.Domain/obj
+/Library/RazorHR.Domain/bin
+/Library/RazorHR.Services/obj
+/Library/RazorHR.Services/bin
+/Library/RazorHR.Services/RazorHR.Services.csproj.user
+/Tools/RazorHR.Data.Migrations/obj
+/Tools/RazorHR.Data.Migrations/bin
+/Tools/RazorHR.Migration/obj
+/Tools/RazorHR.Migration/bin
+/Web/RazorHR.Authentication/obj
+/Web/RazorHR.Authentication/bin
+/Web/RazorHR.Api/obj
+/Web/RazorHR.Api/bin
+/.vs/RazorHR/v14/.suo
+*.suo
+*.user
+/.vs/RazorHR/v15/.suo
+/.vs/config/applicationhost.config
+/RazorHR.Api/bin/Debug/netcoreapp1.1
+/RazorHR.Api/obj
+/RazorHR.Common/obj
+/RazorHR.Common/bin/Debug/netcoreapp1.1
+/Tools/RazorHR.EmailSender/obj/Debug/netcoreapp1.1
+/Tools/RazorHR.EmailSender/bin/Debug/netcoreapp1.1
+/Tools/RazorHR.EmailSender/obj
+/Library/RazorHR.Core/obj
+/.vs
+/DataMigration/RazorHR.Common/obj
+/DataMigration/RazorHR.Data/obj
+/DataMigration/RazorHR.Domain/obj
+/DataMigration/RazorHR.Data.Migrations/bin/Debug/netcoreapp1.0
+/Library/RazorHR.Core/bin/Debug/netcoreapp1.1
+/RazorHR.DataSeeder/bin/Debug/netcoreapp1.1
+/RazorHR.DataSeeder/obj/Debug/netcoreapp1.1
+/RazorHR.DataSeeder/obj/Release/netcoreapp1.1
+/DataMigration/RazorHR.Common/bin/Debug/netcoreapp1.0
+/DataMigration/RazorHR.Data/bin/Debug/netcoreapp1.0
+/DataMigration/RazorHR.Data.Migrations/obj/Debug/netcoreapp1.0
+/DataMigration/RazorHR.Data.Migrations/obj
+/DataMigration/RazorHR.Domain/bin/Debug/netcoreapp1.0
+/RazorHR.DataSeeder/obj
+/RazorHR.Common/bin/Debug/netcoreapp1.0/RazorHR.Common.deps.json
+/RazorHR.Common/bin/Debug/netcoreapp1.0/RazorHR.Common.dll
+/RazorHR.Common/bin/Debug/netcoreapp1.0/RazorHR.Common.pdb
+/RazorHR.Common/bin/Release/netcoreapp1.1/RazorHR.Common.deps.json
+/RazorHR.Common/bin/Release/netcoreapp1.1/RazorHR.Common.dll
+/RazorHR.Common/bin/Release/netcoreapp1.1/RazorHR.Common.pdb
+/Tools/RazorHR.EmailSender/Properties/PublishProfiles/FolderProfile.pubxml
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/BouncyCastle.Crypto.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/IdentityModel.AspNetCore.OAuth2Introspection.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/IdentityModel.AspNetCore.ScopeValidation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/IdentityModel.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/IdentityServer4.AccessTokenValidation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/MailKit.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Authentication.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Authorization.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.DataProtection.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Http.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Http.Extensions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Http.Features.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Http.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Identity.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Mvc.Core.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.Routing.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.AspNetCore.WebUtilities.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.DotNet.PlatformAbstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.EntityFrameworkCore.Design.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.EntityFrameworkCore.Relational.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.EntityFrameworkCore.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Caching.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Caching.Memory.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Configuration.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Configuration.Json.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Configuration.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.DependencyInjection.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.DependencyModel.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.FileProviders.Physical.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.FileSystemGlobbing.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Logging.Abstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Logging.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.ObjectPool.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Options.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.PlatformAbstractions.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.Primitives.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Extensions.WebEncoders.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.IdentityModel.Logging.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.IdentityModel.Protocols.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.IdentityModel.Tokens.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Microsoft.Net.Http.Headers.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/MimeKit.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Newtonsoft.Json.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Common.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Common.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Core.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Core.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Data.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Data.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Domain.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Domain.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.EmailSender.deps.json
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.EmailSender.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.EmailSender.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.EmailSender.runtimeconfig.json
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Services.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/RazorHR.Services.pdb
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Remotion.Linq.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Serilog.Extensions.Logging.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Serilog.Settings.Configuration.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/Serilog.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Collections.NonGeneric.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Collections.Specialized.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.ComponentModel.Primitives.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.ComponentModel.TypeConverter.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Data.Common.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Diagnostics.Contracts.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Drawing.Primitives.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.IdentityModel.Tokens.Jwt.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Interactive.Async.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Net.WebSockets.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Runtime.CompilerServices.Unsafe.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Runtime.Serialization.Primitives.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/System.Text.Encodings.Web.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/appsettings.json
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/linux/lib/netstandard1.3/System.Net.NetworkInformation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/osx/lib/netstandard1.3/System.Net.NetworkInformation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/unix/lib/netstandard1.3/System.Data.SqlClient.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/unix/lib/netstandard1.3/System.IO.Pipes.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/unix/lib/netstandard1.6/System.Net.Http.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win/lib/netstandard1.3/System.Data.SqlClient.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win/lib/netstandard1.3/System.IO.Pipes.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win/lib/netstandard1.3/System.Net.Http.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win/lib/netstandard1.3/System.Net.NetworkInformation.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win7-x64/native/sni.dll
+/Tools/RazorHR.EmailSender/bin/Release/PublishOutput/runtimes/win7-x86/native/sni.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Common.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Common.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Core.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Core.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Data.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Data.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Domain.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Domain.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.EmailSender.deps.json
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.EmailSender.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.EmailSender.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.EmailSender.runtimeconfig.dev.json
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.EmailSender.runtimeconfig.json
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Services.dll
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/RazorHR.Services.pdb
+/Tools/RazorHR.EmailSender/bin/Release/netcoreapp1.1/appsettings.json
+/RazorHR.Utilities/obj
+/RazorHR.Utilities/bin/Debug/netcoreapp1.1
+/RazorHR.Utilities/obj
+
+.vs/
+packages/
+node_modules/
+bower_components/
+obj
+Obj
+
+
+
+
 ## Ignore Visual Studio temporary files, build results, and
 ## files generated by popular Visual Studio add-ons.
-##
-## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
 *.suo
@@ -19,292 +203,9 @@
 [Rr]eleases/
 x64/
 x86/
+build/
 bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-
-# Visual Studio 2015 cache/options directory
-.vs/
-# Visual Studio Code launch options directory
-.vscode/
-# Uncomment if you have tasks that create the project's static files in wwwroot
-#wwwroot/
-
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
-
-# NUNIT
-*.VisualState.xml
-TestResult.xml
-
-# Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
-
-#Test and App Settings
-[Aa]ppsettings.[Dd]evelopment.json
-[Aa]ppsettings.[Pp]roduction.json
-[Tt]est.js
-AjaxTest.cshtml
-
-# Benchmark Results
-BenchmarkDotNet.Artifacts/
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-**/Properties/launchSettings.json
-
-*_i.c
-*_p.c
-*_i.h
-*.ilk
-*.meta
-*.obj
-*.pch
-*.pdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
-*.refactorlog
-
-# Chutzpah Test files
-_Chutzpah*
-
-# Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opendb
-*.opensdf
-*.sdf
-*.cachefile
-*.VC.db
-*.VC.VC.opendb
-
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
-
-# TFS 2012 Local Workspace
-$tf/
-
-# Guidance Automation Toolkit
-*.gpState
-
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# JustCode is a .NET coding add-in
-.JustCode
-
-# TeamCity is a build add-in
-_TeamCity*
-
-# DotCover is a Code Coverage Tool
-*.dotCover
-
-# Visual Studio code coverage results
-*.coverage
-*.coveragexml
-
-# NCrunch
-_NCrunch_*
-.*crunch*.local.xml
-nCrunchTemp_*
-
-# MightyMoose
-*.mm.*
-AutoTest.Net/
-
-# Web workbench (sass)
-.sass-cache/
-
-# Installshield output folder
-[Ee]xpress/
-
-
-# Click-Once directory
-publish/
-
-# Publish Web Output
-*.[Pp]ublish.xml
-*.azurePubxml
-# TODO: Comment the next line if you want to checkin your web deploy settings
-# but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
-*.publishproj
-
-# Microsoft Azure Web App publish settings. Comment the next line if you want to
-# checkin your Azure Web App publish settings, but sensitive information contained
-# in these scripts will be unencrypted
-PublishScripts/
-
-# NuGet Packages
-*.nupkg
-# The packages folder can be ignored because of Package Restore
-**/packages/*
-# except build/, which is used as an MSBuild target.
-!**/packages/build/
-# Uncomment if necessary however generally it will be regenerated when needed
-#!**/packages/repositories.config
-# NuGet v3's project.json files produces more ignorable files
-*.nuget.props
-*.nuget.targets
-
-# Microsoft Azure Build Output
-csx/
-*.build.csdef
-
-# Microsoft Azure Emulator
-ecf/
-rcf/
-
-# Windows Store app package directories and files
-AppPackages/
-BundleArtifacts/
-Package.StoreAssociation.xml
-_pkginfo.txt
-*.appx
-
-# Visual Studio cache files
-# files ending in .cache can be ignored
-*.[Cc]ache
-# but keep track of directories ending in .cache
-!*.[Cc]ache/
-
-# Others
-ClientBin/
-src/ProvisionalCalendarsite/Properties/
-src/SkiptiResourceSchedulerService/Properties/
-src/SkiptiWebApi/Properties/
-~$*
-*~
-*.dbmdl
-*.dbproj.schemaview
-*.jfm
-*.pfx
-*.publishsettings
-orleans.codegen.cs
-
-# Since there are multiple workflows, uncomment next line to ignore bower_components
-# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
-#bower_components/
-
-# RIA/Silverlight projects
-Generated_Code/
-
-# Backup & report files from converting an old project file
-# to a newer Visual Studio version. Backup files are not needed,
-# because we have git ;-)
-_UpgradeReport_Files/
-Backup*/
-UpgradeLog*.XML
-UpgradeLog*.htm
-
-# SQL Server files
-*.mdf
-*.ldf
-*.ndf
-
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-
-# Microsoft Fakes
-FakesAssemblies/
-
-# GhostDoc plugin setting file
-*.GhostDoc.xml
-
-# Node.js Tools for Visual Studio
-.ntvs_analysis.dat
-node_modules/
-
-# Typescript v1 declaration files
-typings/
-
-# Visual Studio 6 build log
-*.plg
-
-# Visual Studio 6 workspace options file
-*.opt
-
-# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
-*.vbw
-
-# Visual Studio LightSwitch build output
-**/*.HTMLClient/GeneratedArtifacts
-**/*.DesktopClient/GeneratedArtifacts
-**/*.DesktopClient/ModelManifest.xml
-**/*.Server/GeneratedArtifacts
-**/*.Server/ModelManifest.xml
-_Pvt_Extensions
-
-# Paket dependency manager
-.paket/paket.exe
-paket-files/
-
-# FAKE - F# Make
-.fake/
-
-# JetBrains Rider
-.idea/
-*.sln.iml
-
-# CodeRush
-.cr/
-
-# Python Tools for Visual Studio (PTVS)
-__pycache__/
-*.pyc
-
-# Cake - Uncomment if you are using it
-# tools/**
-# !tools/packages.config
-
-# Tabs Studio
-*.tss
-
-# Telerik's JustMock configuration file
-*.jmconfig
-
-# BizTalk build output
-*.btp.cs
-*.btm.cs
-*.odx.cs
-*.xsd.cs
-Contact GitHub API Training Shop Blog About
-� 2017 GitHub, Inc. Terms Privacy Security Status H
-
-src/SkiptiWebApi/wwwroot/js/main.js
-src/SkiptiWebApi/wwwroot/js/main.js.map
-src/SkiptiWebApi/wwwroot/js/vendor.js
-src/SkiptiWebApi/wwwroot/js/vendor.js.map
-src/SkiptiWebApi/wwwroot/js/test.js
-
-src/SkiptiResourceSchedulerService/appsettings.Development.json
-
-src/SkiptiReact/package-lock\.json
+bin/
+Bin/
+#obj/
+#Obj/
