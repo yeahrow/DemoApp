@@ -1,5 +1,5 @@
 ﻿using DemoApp.MVC.Models;
-using DemoApp.MVC.Services;
+using DemoApp.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

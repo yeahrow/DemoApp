@@ -1,4 +1,5 @@
 using DemoApp.Server.Data;
+using DemoApp.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Hosting;

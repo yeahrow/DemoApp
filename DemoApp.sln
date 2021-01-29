@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.WASM.Client", "Demo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.WASM.Shared", "DemoApp.WASM\Shared\DemoApp.WASM.Shared.csproj", "{5C267415-2E8F-47B5-B423-5A78157C5DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp.MVC", "DemoApp.MVC\DemoApp.MVC.csproj", "{ADA99946-367F-4239-B554-887D2ECBA4F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.MVC", "DemoApp.MVC\DemoApp.MVC.csproj", "{ADA99946-367F-4239-B554-887D2ECBA4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp.Services", "DemoApp.Services\DemoApp.Services.csproj", "{B0F4EE03-3221-456E-8B0D-B8AE197D90C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{ADA99946-367F-4239-B554-887D2ECBA4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA99946-367F-4239-B554-887D2ECBA4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA99946-367F-4239-B554-887D2ECBA4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F4EE03-3221-456E-8B0D-B8AE197D90C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F4EE03-3221-456E-8B0D-B8AE197D90C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F4EE03-3221-456E-8B0D-B8AE197D90C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F4EE03-3221-456E-8B0D-B8AE197D90C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
