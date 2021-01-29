@@ -1,0 +1,40 @@
+﻿@page "/newsfeed"
+
+@using DemoApp.Server.Data
+@inject NewsFeedService newsFeedService
+
+@if (items == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Content</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var items in items)
+            {
+                <tr>
+                    <td>@items.Id</td>
+                    <td>@items.Title</td>
+                    <td>@items.Content</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private FeedItem[] items;
+
+    protected override async Task OnInitializedAsync()
+    {
+        items = await newsFeedService.GetNewsFeedAsync(5000);
+    }
+}

@@ -1,0 +1,39 @@
+﻿@page "/newsfeedv"
+
+@using DemoApp.Server.Data
+@inject NewsFeedService newsFeedService
+
+@if (items == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Content</th>
+            </tr>
+        </thead>
+        <tbody class="@Guid.NewGuid()">
+            <Virtualize Items="items" ItemSize="40" Context="item">
+                <tr class="@Guid.NewGuid()">
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Content</td>
+                </tr>
+            </Virtualize>
+        </tbody>
+    </table>
+}
+
+@code {
+    private FeedItem[] items;
+
+    protected override async Task OnInitializedAsync()
+    {
+        items = await newsFeedService.GetNewsFeedAsync(100000);
+    }
+}
