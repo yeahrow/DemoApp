@@ -1,4 +1,5 @@
 ﻿using DemoApp.MVC.Models;
+using DemoApp.MVC.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -13,9 +14,20 @@ namespace DemoApp.MVC.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ISingletonService _singletonService;
+        private readonly IScopedService _scopedService;
+        private readonly ITransientService _transientService;
+
+        public HomeController(ILogger<HomeController> logger,
+            ISingletonService singletonService,
+            IScopedService scopedService,
+            ITransientService transientService)
         {
             _logger = logger;
+
+            _singletonService = singletonService;
+            _scopedService = scopedService;
+            _transientService = transientService;
         }
 
         public IActionResult Index()
@@ -23,8 +35,11 @@ namespace DemoApp.MVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ServicesLifetime()
         {
+            ViewData["singletonServiceId"] = _singletonService.ServiceId;
+            ViewData["scopedServiceId"] = _scopedService.ServiceId;
+            ViewData["transientServiceId"] = _transientService.ServiceId;
             return View();
         }
 

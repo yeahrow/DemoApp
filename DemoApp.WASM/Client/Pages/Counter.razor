@@ -1,19 +1,16 @@
-﻿@page "/st"
+﻿@page "/"
 
-@using DemoApp.WASM.Client.Data
-@inject ISingletonService singletonService
-@inject IScopedService scopedService
-@inject ITransientService transientService
+<h1>Counter</h1>
 
-<h1>Blazor Service Lifetimes Page 2</h1>
+<p>Current count: @currentCount</p>
 
-<div class="row">
-    <div class="col-md-12">
-        <ul>
-            <li>Singleton Service - @singletonService.ServiceId</li>
-            <li>Scoped Service - @scopedService.ServiceId</li>
-            <li>Transient Service - @transientService.ServiceId</li>
-        </ul>
-    </div>
-</div>
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
